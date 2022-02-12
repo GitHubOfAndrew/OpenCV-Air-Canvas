@@ -8,7 +8,7 @@ There are currently a lot of limitations of this air canvas:
 
 - There are only some types of colors supported, and only more vibrant colors are really responsive.
 - The brightness, and background, must be optimal for this to work the best.
-- There is no direct way to save the work, we must use the snipping tool to screenshot the frame that the canvas is on.
+- There is no convenient way to save the work, we must use the snipping tool to screenshot the frame that the canvas is on, or we must quit our application (by pressing q) and it will save our image then. I will work on a keylogger to take some input to save the image during use.
 
 # Dependencies
 
